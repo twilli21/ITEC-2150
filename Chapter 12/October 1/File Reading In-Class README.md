@@ -1,1 +1,1 @@
-
+Take your Homework 2 (Or the working solution provided in D2L) and convert the main() method to read a Dragon, a Unicorn and a Human info from a text file rather than from a user.  You will need to create the text file in addition to converting from user input to file input.
