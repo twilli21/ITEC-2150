@@ -32,9 +32,8 @@ public class WriteFile
 		
 		try
 		{
-			fileChooser = new JFileChooser();
-		    if (fileChooser.showOpenDialog(null)
-		        == JFileChooser.APPROVE_OPTION)
+		    fileChooser = new JFileChooser();
+		    if (fileChooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION)		        
 		    {
 		      // Get the selected file
 		      inFile = fileChooser.getSelectedFile();
