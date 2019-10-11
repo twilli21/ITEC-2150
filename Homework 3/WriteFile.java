@@ -94,7 +94,7 @@ public class WriteFile
 			ex.printStackTrace();
 		}
 		/**
-		 * Closes PrintWriter
+		 * Closes PrintWriter & Scanner
 		 */
 		finally
 		{
