@@ -1,5 +1,7 @@
 Abstract Class In-Class
+
 ITEC 2150
+
 Fall 2019
 
 In this IC, you will be creating an abstract class Movie.  This class should have two instance variables, title and genre.  This class should implement the Comparable interface.  You should compare on title.  You should implement getters, setters and constructors for this class.  You will also need a toString method.  The defaults for the no argument constructor should be title “Not set”, genre” Not Set”.  This class should have three abstract methods:
