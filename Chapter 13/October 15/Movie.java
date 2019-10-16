@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
  */
 
 /**
- * @author twilli21
+ * @author Taylor Williams
  *
  */
 public abstract class Movie implements Comparable<Movie>
