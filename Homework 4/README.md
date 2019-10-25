@@ -53,7 +53,7 @@ You should create getters and setters for each of these variables.
 Driver(Your name is your choice)
 In the Driver, you will read in the attached text file which contains three books, three music and three movie items.   Read them in, create the appropriate object and add to an ArrayList of Items.   Then choose a sort algorithm and implement it as a generic sort algorithm.  Sort the ArrayList and print each Item on it’s own line.   Do NOT use Collections sort algorithm- create a generic sort algorithm based on examples in D2L.
 
-Grading Criteria (total 100 points):
+Grading Criteria (total 95 points):
 1.	Read in file correctly: 10
 1.	Create ArrayList of Items: 15
 1.	Inheritance and abstract use correct:	15
